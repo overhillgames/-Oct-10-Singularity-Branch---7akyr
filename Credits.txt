@@ -1,0 +1,9 @@
+4 frame, 8 directional walking sprite by:
+Wind astella
+https://opengameart.org/content/stella
+
+
+Pixel art mountain background on "Graphics Test" map by:
+vnitti
+https://vnitti.itch.io/grassy-mountains-parallax-background
+http://creativecommons.org/licenses/by/4.0/
